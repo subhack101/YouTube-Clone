@@ -8,7 +8,7 @@ This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The
 - Browse and watch videos
 
 - Play videos in a video player
-- Display video information (title, description, uploader, views, likes, etc.)
+- Display video information (title, description, uploader, views, likes, etc.) 
 - Responsive design for various devices
 
 Website Link: http://127.0.0.1:5500/index.html
